@@ -1,0 +1,6 @@
+/home/sts19/gookto_sim/gookto_io/CMakeFiles/rebuild_cache.dir
+/home/sts19/gookto_sim/gookto_io/CMakeFiles/edit_cache.dir
+/home/sts19/gookto_sim/gookto_io/sources/gookto_io/CMakeFiles/rebuild_cache.dir
+/home/sts19/gookto_sim/gookto_io/sources/gookto_io/CMakeFiles/edit_cache.dir
+/home/sts19/gookto_sim/gookto_io/sources/gookto_io/CMakeFiles/InputXmlParser.dir
+/home/sts19/gookto_sim/gookto_io/sources/gookto_io/CMakeFiles/Main.dir
